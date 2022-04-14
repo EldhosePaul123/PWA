@@ -1,0 +1,42 @@
+{
+    "name": "EldhoseProfile",
+    "short_name": "EProfile",
+    "start_url": "/Src/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578",
+    "icons":  [
+        {
+          "src": "images/icon.png",
+          "type": "image/png",
+          "sizes": "48x48"
+        },
+        {
+          "src": "images/icon.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src":"images/icon.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "images/icon.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "images/icon.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        },
+        {
+          "src": "images/maskable_icon.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+  }
